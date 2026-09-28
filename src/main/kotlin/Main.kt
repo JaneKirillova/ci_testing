@@ -1,6 +1,6 @@
 package org.example
 
-fun greet(name: String): String = "Hello, $name!"
+fun greet(name: String): String = "Hello again, $name!"
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
