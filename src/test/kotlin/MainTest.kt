@@ -7,7 +7,7 @@ class MainTest {
 
     @Test
     fun `greet returns hello message with given name`() {
-        assertEquals("Helo, Kin!", greet("Kotlin"))
+        assertEquals("Helokk, Kin!", greet("Kotlin"))
     }
 
     @Test
