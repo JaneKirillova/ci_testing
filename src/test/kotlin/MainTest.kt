@@ -7,11 +7,11 @@ class MainTest {
 
     @Test
     fun `greet returns hello message with given name`() {
-        assertEquals("Helokk, Kin!", greet("Kotlin"))
+        assertEquals("Helloagain, Kotlin!", greet("Kotlin"))
     }
 
     @Test
     fun `greet handles empty name`() {
-        assertEquals("llo, !", greet(""))
+        assertEquals("Hello again, !", greet(""))
     }
 }
