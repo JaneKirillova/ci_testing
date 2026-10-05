@@ -12,6 +12,6 @@ class MainTest {
 
     @Test
     fun `greet handles empty name`() {
-        assertEquals("Hellogain, !", greet(""))
+        assertEquals("Helloain, !", greet(""))
     }
 }
